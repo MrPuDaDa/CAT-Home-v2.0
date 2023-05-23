@@ -6,7 +6,7 @@
 ![](https://github.com/MrPuDaDa/CAT-Home-v2.0/blob/img/%E7%8C%AB%E3%81%AE%E5%AE%B6%E7%B3%BB%E7%BB%9F.png)
 ### [安装教程](https://github.com/MrPuDaDa/CAT-Home-v2.0/blob/doc/%E5%AE%89%E8%A3%85%E6%96%87%E6%A1%A3.md)
 ### [后端API接口](https://xcs.stoplight.io/docs/cathome)
-* 点击进入联系创建者，加入team团队，获取编辑权限，即可查看详细接口信息。
+* 点击进入联系创建者，加入CATHome-stoplight-xcs团队，获取编辑权限，即可查看详细接口信息。
 ### [系统说明文档](https://github.com/MrPuDaDa/CAT-Home-v2.0/blob/doc/%E7%B3%BB%E7%BB%9F%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
 ### [系统演示视频1](https://www.bilibili.com/video/BV1mX4y1m7pi/?spm_id_from=333.999.0.0)
 ### [系统演示视频2](https://www.bilibili.com/video/BV1pg4y1L7Q8/?spm_id_from=333.999.0.0)
