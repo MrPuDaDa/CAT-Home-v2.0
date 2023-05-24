@@ -1,8 +1,3 @@
----
-stoplight-id: 0zxre5bbf8aak
-tags: [docs]
----
-
 # 猫の家系统后端接口API设计说明文档  
 ![](https://github.com/MrPuDaDa/CAT-Home-v2.0/blob/img/undraw_welcome_cats_thqn.png?raw=true)
 
