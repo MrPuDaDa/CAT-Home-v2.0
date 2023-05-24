@@ -1,6 +1,4 @@
 # 猫の家系统后端接口API设计说明文档  
-![](https://github.com/MrPuDaDa/CAT-Home-v2.0/blob/img/undraw_welcome_cats_thqn.png?raw=true)
-
 > 总体描述：猫の家系统旨在为广大爱猫人士和需要宠物陪伴的人提供一个方便快捷的购买和出售猫咪及其相关产品的安全可靠交易平台，以及一个养猫交流互助平台。猫の家系统后端接口API设计说明文档是基于Stoplight的后台接口API功能、路由、参数、响应体、请求体等的说明。
 
 ## 规约
