@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CATHomeDataBase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeDataBase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeNacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeNacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeDBMapperServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeDBMapperServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeEmailServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeEmailServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeFileServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeFileServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeGoodsServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeGoodsServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeLetterPostServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeLetterPostServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeOrderServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeOrderServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomePayServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomePayServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeSellerServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeSellerServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeStaffServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeStaffServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeUserServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/CATHomeUserServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeServers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeUtils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CATHomeUtils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

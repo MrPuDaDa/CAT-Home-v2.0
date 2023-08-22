@@ -1,0 +1,26 @@
+# Tomcat
+server:
+  port: 18003
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: Staff
+  # could-nacos注册中心配置
+  cloud:
+    nacos:
+    discovery:
+      # Nacos 的地址
+      server-addr: 192.168.2.107/:8848
+  # 数据源
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.211.131:3306/CatHome?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: Pj-2001213
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mapper/*Mapper.xml
+

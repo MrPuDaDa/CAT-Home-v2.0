@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CATHomeGoodsServer" />
+        <module name="CATHomeDataBase" />
+        <module name="CATHomePayServer" />
+        <module name="CATHomeLetterPostServer" />
+        <module name="CATHomeStaffServer" />
+        <module name="CATHomeEmailServer" />
+        <module name="CATHomeSellerServer" />
+        <module name="CATHomeOrderServer" />
+        <module name="CATHomeUserServer" />
+        <module name="CATHomeUtils" />
+        <module name="CATHomeDBMapperServer" />
+        <module name="CATHomeFileServer" />
+        <module name="CATHomeNacos" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

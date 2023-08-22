@@ -1,0 +1,15 @@
+# Tomcat
+server:
+  port: 18008
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: Email
+  # could-nacos注册中心配置
+  cloud:
+    nacos:
+    discovery:
+      # Nacos 的地址
+      server-addr: 192.168.211.128:8848
+

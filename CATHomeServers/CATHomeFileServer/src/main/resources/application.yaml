@@ -1,0 +1,19 @@
+# Tomcat
+server:
+  port: 18007
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: File
+  servlet:
+    multipart:
+      max-file-size: 200MB
+      max-request-size: 200MB
+  # could-nacos注册中心配置
+  cloud:
+    nacos:
+    discovery:
+      # Nacos 的地址
+      server-addr: 192.168.211.128:8848
+
